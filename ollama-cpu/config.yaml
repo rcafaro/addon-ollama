@@ -4,7 +4,7 @@ version: 0.3.11
 slug: ollama-cpu
 description: "The easiest way to get up and running with large language models."
 url: "https://github.com/TheSpaceGod/addon-ollama"
-image: "docker.io/ollama/ollama:0.3.11"
+image: "docker.io/ollama/ollama"
 arch:
   - aarch64
   - amd64
